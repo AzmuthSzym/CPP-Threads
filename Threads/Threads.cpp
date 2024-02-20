@@ -16,7 +16,6 @@ int main()
     int sum = processor.calculateSum();
     std::cout << "Total sum: " << sum << std::endl;
 
-    std::cout << "ASD" << std::endl;
     system("pause");
     return 0;
 }
