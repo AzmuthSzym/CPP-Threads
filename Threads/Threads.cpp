@@ -4,7 +4,7 @@
 #include <iostream>
 #include "ArrayProcessor.h"
 
-int main()
+/*int main()
 {
     const int arrSize = 100;
     int arr[arrSize];
@@ -18,4 +18,4 @@ int main()
 
     system("pause");
     return 0;
-}
+}*/

@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArrayProcessor.cpp" />
+    <ClCompile Include="ProducerConsumer.cpp" />
     <ClCompile Include="Threads.cpp" />
   </ItemGroup>
   <ItemGroup>
