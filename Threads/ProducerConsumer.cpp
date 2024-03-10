@@ -52,7 +52,7 @@ void consumer()
     }
 }
 
-int main()
+/*int main()
 {
     thread producerThread(producer), consumerThread(consumer);
     producerThread.join();
@@ -60,4 +60,4 @@ int main()
 
     system("pause");
     return 0;
-}
+}*/
